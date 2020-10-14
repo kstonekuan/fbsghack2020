@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Kaleidoscope</title>
+    <style>
+      div {
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+      <div style="width:462px; height:462px; left:817px; top:423px; border-radius:231px; background-color: rgba(47, 178, 147, 0.8); ">
+      </div><div style="width:456px; height:456px; left:252px; top:770px; border-radius:228px; background-color: rgba(182, 17, 204, 0.6); ">
+      </div><div style="width:424px; height:424px; left:268px; top:349px; border-radius:212px; background-color: rgba(176, 88, 161, 0.9); ">
+      </div><div style="width:671px; height:671px; left:387px; top:659px; border-radius:335.5px; background-color: rgba(254, 118, 218, 0.9); ">
+      </div><div style="width:670px; height:670px; left:633px; top:721px; border-radius:335px; background-color: rgba(243, 16, 129, 0.7); ">
+      </div><div style="width:673px; height:673px; left:523px; top:1081px; border-radius:336.5px; background-color: rgba(174, 77, 28, 0.7); ">
+      </div>
+  </body>
+</html>
